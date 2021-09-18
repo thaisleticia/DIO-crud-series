@@ -1,0 +1,16 @@
+C:\Users\letic\OneDrive\Documentos\cursos\crud-app-series\DiO.Series\bin\Debug\net5.0\DiO.Series.exe
+C:\Users\letic\OneDrive\Documentos\cursos\crud-app-series\DiO.Series\bin\Debug\net5.0\DiO.Series.deps.json
+C:\Users\letic\OneDrive\Documentos\cursos\crud-app-series\DiO.Series\bin\Debug\net5.0\DiO.Series.runtimeconfig.json
+C:\Users\letic\OneDrive\Documentos\cursos\crud-app-series\DiO.Series\bin\Debug\net5.0\DiO.Series.runtimeconfig.dev.json
+C:\Users\letic\OneDrive\Documentos\cursos\crud-app-series\DiO.Series\bin\Debug\net5.0\DiO.Series.dll
+C:\Users\letic\OneDrive\Documentos\cursos\crud-app-series\DiO.Series\bin\Debug\net5.0\ref\DiO.Series.dll
+C:\Users\letic\OneDrive\Documentos\cursos\crud-app-series\DiO.Series\bin\Debug\net5.0\DiO.Series.pdb
+C:\Users\letic\OneDrive\Documentos\cursos\crud-app-series\DiO.Series\obj\Debug\net5.0\DiO.Series.csproj.AssemblyReference.cache
+C:\Users\letic\OneDrive\Documentos\cursos\crud-app-series\DiO.Series\obj\Debug\net5.0\DiO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letic\OneDrive\Documentos\cursos\crud-app-series\DiO.Series\obj\Debug\net5.0\DiO.Series.AssemblyInfoInputs.cache
+C:\Users\letic\OneDrive\Documentos\cursos\crud-app-series\DiO.Series\obj\Debug\net5.0\DiO.Series.AssemblyInfo.cs
+C:\Users\letic\OneDrive\Documentos\cursos\crud-app-series\DiO.Series\obj\Debug\net5.0\DiO.Series.csproj.CoreCompileInputs.cache
+C:\Users\letic\OneDrive\Documentos\cursos\crud-app-series\DiO.Series\obj\Debug\net5.0\DiO.Series.dll
+C:\Users\letic\OneDrive\Documentos\cursos\crud-app-series\DiO.Series\obj\Debug\net5.0\ref\DiO.Series.dll
+C:\Users\letic\OneDrive\Documentos\cursos\crud-app-series\DiO.Series\obj\Debug\net5.0\DiO.Series.pdb
+C:\Users\letic\OneDrive\Documentos\cursos\crud-app-series\DiO.Series\obj\Debug\net5.0\DiO.Series.genruntimeconfig.cache
